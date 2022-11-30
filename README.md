@@ -22,7 +22,7 @@ Go to
 
 <img src="TWA_Documentations/documentation-0.png" alt="Screen"/>
 
-Your Application is Ready! Now Run your Application and Click Connect button then put OTP for Auth. 
+Your Application is Ready! Now run your Application and click Connect button then put your OTP for Auth. 
 
 <img src="TWA_Documentations/documentation-1.png" alt="Screen"/>
 
