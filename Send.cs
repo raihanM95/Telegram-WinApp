@@ -18,10 +18,10 @@ namespace WinApp
 {
     public partial class Send : Form
     {
-        int apiId = 7547006; //nhap id của bạn
-        string apiHash = "dc0e5e7f3b17254634ee1fe249d30685";
+        int apiId = 123456; // apiId
+        string apiHash = ""; // apiHash
         TelegramClient client;
-        string myPhoneNumber = "+8801750675743";
+        string myPhoneNumber = "+88017********"; // phone no from you sent messages
         string hash;
         TLContacts tLContact;
         string userIDSelected;
